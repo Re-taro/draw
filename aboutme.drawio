@@ -1,29 +1,32 @@
 <mxfile>
     <diagram id="tgy8DVxkUPNIr-Qk8Ljf" name="ページ1">
-        <mxGraphModel dx="743" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="734" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-8" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#AF45ED;align=center;fillColor=#4D4D4D;noLabel=1;fontColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="50" y="250" width="480" height="410" as="geometry"/>
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-8" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#AF45ED;align=center;fillColor=#4D4D4D;noLabel=1;fontColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="250" width="480" height="460" as="geometry"/>
                 </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;糸川 倫太朗　イトカワ リンタロウ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" vertex="1" parent="1">
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;糸川 倫太朗　イトカワ リンタロウ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" parent="1" vertex="1">
                     <mxGeometry x="70" y="280" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;鈴鹿高専電子情報工学科所属&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" vertex="1" parent="1">
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;鈴鹿高専電子情報工学科所属&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" parent="1" vertex="1">
                     <mxGeometry x="70" y="340" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;B : 78 W : 71 H : 88&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" vertex="1" parent="1">
-                    <mxGeometry x="70" y="400" width="430" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;一応帰国子女(英語のテストは46の実績)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" vertex="1" parent="1">
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;B : 78 W : 71 H : 88&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" parent="1" vertex="1">
                     <mxGeometry x="70" y="460" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;邦ロックとボカロをよく聞きます&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" vertex="1" parent="1">
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;一応帰国子女(英語のテストは46の実績)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" parent="1" vertex="1">
                     <mxGeometry x="70" y="520" width="430" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="-px3oeWlSdWM0mmwsJM_-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;漫画もよく読みます&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;labelBorderColor=none;" vertex="1" parent="1">
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;邦ロックとボカロをよく聞きます&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;" parent="1" vertex="1">
                     <mxGeometry x="70" y="580" width="430" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="-px3oeWlSdWM0mmwsJM_-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;漫画もよく読みます&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;labelBorderColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="640" width="430" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4/25('16)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;align=center;fillColor=#F9F9F9;fontColor=#9933FF;labelBorderColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="400" width="430" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
